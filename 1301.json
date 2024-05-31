@@ -216,7 +216,7 @@
               "tid": 61182,
               "level": 15,
               "type": 2,
-              "mainAffixId": null
+              "mainAffixId": 1
             },
             {
               "subAffixList": [
@@ -239,7 +239,7 @@
               "tid": 61181,
               "level": 15,
               "type": 1,
-              "mainAffixId": null
+              "mainAffixId": 1
             }
           ],
           "pos": 1,
