@@ -1,4 +1,5 @@
 {
+  "status": {
     "detailInfo": {
       "avatarDetailList": [
         {
@@ -79,6 +80,10 @@
           ],
           "relicList": [
             {
+              "tid": 63106,
+              "level": 15,
+              "type": 6,
+              "mainAffixId": 2,
               "subAffixList": [
                 {
                   "affixId": 9,
@@ -99,18 +104,14 @@
                   "affixId": 7,
                   "cnt": 3,
                   "step": 6
-                },
-                {
-                  "affixId": null,
-                  "step": null
                 }
-              ],
-              "tid": 63106,
-              "level": 15,
-              "type": 6,
-              "mainAffixId": 2
+              ]
             },
             {
+              "tid": 63105,
+              "level": 15,
+              "type": 5,
+              "mainAffixId": 10,
               "subAffixList": [
                 {
                   "affixId": 11,
@@ -131,18 +132,14 @@
                   "affixId": 9,
                   "cnt": 6,
                   "step": 12
-                },
-                {
-                  "affixId": null,
-                  "step": null
                 }
-              ],
-              "tid": 63105,
-              "level": 15,
-              "type": 5,
-              "mainAffixId": 10
+              ]
             },
             {
+              "tid": 61014,
+              "level": 15,
+              "type": 4,
+              "mainAffixId": 4,
               "subAffixList": [
                 {
                   "affixId": 5,
@@ -163,18 +160,14 @@
                   "affixId": 9,
                   "cnt": 5,
                   "step": 10
-                },
-                {
-                  "affixId": null,
-                  "step": null
                 }
-              ],
-              "tid": 61014,
-              "level": 15,
-              "type": 4,
-              "mainAffixId": 4
+              ]
             },
             {
+              "tid": 61013,
+              "level": 15,
+              "type": 3,
+              "mainAffixId": 4,
               "subAffixList": [
                 {
                   "affixId": 4,
@@ -195,19 +188,20 @@
                   "affixId": 9,
                   "cnt": 5,
                   "step": 10
-                },
-                {
-                  "affixId": null,
-                  "step": null
                 }
-              ],
-              "tid": 61013,
-              "level": 15,
-              "type": 3,
-              "mainAffixId": 4
+              ]
             },
             {
+              "tid": 61012,
+              "level": 15,
+              "type": 2,
+              "mainAffixId": 1,
               "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
                 {
                   "affixId": 7,
                   "cnt": 1,
@@ -222,19 +216,20 @@
                   "affixId": 9,
                   "cnt": 6,
                   "step": 12
-                },
-                {
-                  "affixId": null,
-                  "step": null
                 }
-              ],
-              "tid": 61012,
-              "level": 15,
-              "type": 2,
-              "mainAffixId": 1
+              ]
             },
             {
+              "tid": 61011,
+              "level": 15,
+              "type": 1,
+              "mainAffixId": 1,
               "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
                 {
                   "affixId": 7,
                   "cnt": 2,
@@ -249,16 +244,8 @@
                   "affixId": 9,
                   "cnt": 1,
                   "step": 2
-                },
-                {
-                  "affixId": null,
-                  "step": null
                 }
-              ],
-              "tid": 61011,
-              "level": 15,
-              "type": 1,
-              "mainAffixId": 1
+              ]
             }
           ],
           "pos": 1,
@@ -281,7 +268,7 @@
           "scheduleGroupId": 2006
         }
       },
-      "nickname": "1",
+      "nickname": "Hotaru",
       "signature": "@Hotaru_vn",
       "uid": 1,
       "headIcon": 202016,
@@ -294,3 +281,4 @@
     "ttl": 60,
     "uid": "1"
   }
+}

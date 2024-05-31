@@ -1,4 +1,5 @@
 {
+  "status": {
     "detailInfo": {
       "avatarDetailList": [
         {
@@ -79,35 +80,16 @@
           ],
           "relicList": [
             {
-              "subAffixList": [
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
-                },
-                {
-                  "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 4,
-                  "step": 8
-                }
-              ],
               "tid": 63076,
               "level": 15,
               "type": 6,
-              "mainAffixId": 1
-            },
-            {
+              "mainAffixId": 1,
               "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
                 {
                   "affixId": 7,
                   "cnt": 2,
@@ -115,26 +97,49 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 3,
-                  "step": 6
-                },
-                {
-                  "affixId": 12,
                   "cnt": 4,
                   "step": 8
                 }
-              ],
+              ]
+            },
+            {
               "tid": 63075,
               "level": 15,
               "type": 5,
-              "mainAffixId": 4
+              "mainAffixId": 4,
+              "subAffixList": [
+                {
+                  "affixId": 7,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 3,
+                  "step": 6
+                },
+                {
+                  "affixId": 12,
+                  "cnt": 4,
+                  "step": 8
+                }
+              ]
             },
             {
+              "tid": 61114,
+              "level": 15,
+              "type": 4,
+              "mainAffixId": 4,
               "subAffixList": [
                 {
                   "affixId": 5,
@@ -156,13 +161,13 @@
                   "cnt": 4,
                   "step": 8
                 }
-              ],
-              "tid": 61114,
-              "level": 15,
-              "type": 4,
-              "mainAffixId": 4
+              ]
             },
             {
+              "tid": 61113,
+              "level": 15,
+              "type": 3,
+              "mainAffixId": 4,
               "subAffixList": [
                 {
                   "affixId": 5,
@@ -184,37 +189,19 @@
                   "cnt": 3,
                   "step": 6
                 }
-              ],
-              "tid": 61113,
-              "level": 15,
-              "type": 3,
-              "mainAffixId": 4
+              ]
             },
             {
-              "subAffixList": [
-                {
-                  "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 3,
-                  "step": 6
-                },
-                {
-                  "affixId": 12,
-                  "cnt": 3,
-                  "step": 6
-                }
-              ],
               "tid": 61112,
               "level": 15,
               "type": 2,
-              "mainAffixId": 1
-            },
-            {
+              "mainAffixId": 1,
               "subAffixList": [
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
                 {
                   "affixId": 8,
                   "cnt": 2,
@@ -230,11 +217,35 @@
                   "cnt": 3,
                   "step": 6
                 }
-              ],
+              ]
+            },
+            {
               "tid": 61111,
               "level": 15,
               "type": 1,
-              "mainAffixId": 1
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 3,
+                  "step": 6
+                },
+                {
+                  "affixId": 12,
+                  "cnt": 3,
+                  "step": 6
+                }
+              ]
             }
           ],
           "pos": 1,
@@ -257,7 +268,7 @@
           "scheduleGroupId": 2006
         }
       },
-      "nickname": "1",
+      "nickname": "Hotaru",
       "signature": "@Hotaru_vn",
       "uid": 1,
       "headIcon": 202016,
@@ -270,3 +281,4 @@
     "ttl": 60,
     "uid": "1"
   }
+}
