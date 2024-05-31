@@ -1,5 +1,4 @@
 {
-  "status": {
     "detailInfo": {
       "avatarDetailList": [
         {
@@ -281,4 +280,3 @@
     "ttl": 60,
     "uid": "1"
   }
-}
