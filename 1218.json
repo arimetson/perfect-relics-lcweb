@@ -79,65 +79,9 @@
           ],
           "relicList": [
             {
-              "tid": 63066,
+              "tid": 63126,
               "level": 15,
               "type": 6,
-              "mainAffixId": 4,
-              "subAffixList": [
-                {
-                  "affixId": 4,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 12,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
-                }
-              ]
-            },
-            {
-              "tid": 63065,
-              "level": 15,
-              "type": 5,
-              "mainAffixId": 4,
-              "subAffixList": [
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 12,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
-                }
-              ]
-            },
-            {
-              "tid": 61054,
-              "level": 15,
-              "type": 4,
               "mainAffixId": 2,
               "subAffixList": [
                 {
@@ -146,26 +90,26 @@
                   "step": 2
                 },
                 {
-                  "affixId": 12,
-                  "cnt": 2,
-                  "step": 4
+                  "affixId": 10,
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 9,
-                  "cnt": 4,
-                  "step": 8
+                  "cnt": 6,
+                  "step": 12
                 }
               ]
             },
             {
-              "tid": 61053,
+              "tid": 63125,
               "level": 15,
-              "type": 3,
+              "type": 5,
               "mainAffixId": 5,
               "subAffixList": [
                 {
@@ -174,75 +118,131 @@
                   "step": 2
                 },
                 {
-                  "affixId": 5,
+                  "affixId": 7,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 8,
                   "cnt": 1,
                   "step": 2
                 },
                 {
-                  "affixId": 12,
+                  "affixId": 9,
+                  "cnt": 5,
+                  "step": 10
+                }
+              ]
+            },
+            {
+              "tid": 61024,
+              "level": 15,
+              "type": 4,
+              "mainAffixId": 4,
+              "subAffixList": [
+                {
+                  "affixId": 4,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 10,
                   "cnt": 1,
                   "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 3,
+                  "step": 6
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 3,
+                  "step": 6
                 }
               ]
             },
             {
-              "tid": 61052,
+              "tid": 61023,
+              "level": 15,
+              "type": 3,
+              "mainAffixId": 4,
+              "subAffixList": [
+                {
+                  "affixId": 4,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 4,
+                  "step": 8
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 3,
+                  "step": 6
+                }
+              ]
+            },
+            {
+              "tid": 61022,
               "level": 15,
               "type": 2,
               "mainAffixId": 1,
               "subAffixList": [
                 {
-                  "affixId": 4,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 4,
+                  "step": 8
                 },
                 {
                   "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 3,
+                  "step": 6
+                },
+                {
+                  "affixId": 4,
+                  "cnt": 1,
+                  "step": 2
                 }
               ]
             },
             {
-              "tid": 61051,
+              "tid": 61021,
               "level": 15,
               "type": 1,
               "mainAffixId": 1,
               "subAffixList": [
                 {
-                  "affixId": 4,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
+                  "cnt": 6,
+                  "step": 12
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 4,
+                  "cnt": 1,
+                  "step": 2
                 }
               ]
             }
