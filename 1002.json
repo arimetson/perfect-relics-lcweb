@@ -141,7 +141,7 @@
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -169,7 +169,7 @@
               "mainAffixId": 5,
               "subAffixList": [
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
