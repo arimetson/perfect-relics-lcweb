@@ -85,7 +85,7 @@
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -141,7 +141,7 @@
               "mainAffixId": 2,
               "subAffixList": [
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -169,7 +169,7 @@
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -197,7 +197,7 @@
               "mainAffixId": 1,
               "subAffixList": [
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -230,7 +230,7 @@
                   "step": 2
                 },
                 {
-                  "affixId": 3,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
