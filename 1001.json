@@ -91,8 +91,8 @@
                 },
                 {
                   "affixId": 7,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 3,
@@ -101,8 +101,8 @@
                 },
                 {
                   "affixId": 11,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
