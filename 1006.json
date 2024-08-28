@@ -79,7 +79,7 @@
           ],
           "relicList": [
             {
-              "tid": 63116,
+              "tid": 63066,
               "level": 15,
               "type": 6,
               "mainAffixId": 2,
@@ -91,13 +91,13 @@
                 },
                 {
                   "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
@@ -107,7 +107,7 @@
               ]
             },
             {
-              "tid": 63115,
+              "tid": 63065,
               "level": 15,
               "type": 5,
               "mainAffixId": 9,
@@ -119,13 +119,13 @@
                 },
                 {
                   "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
@@ -135,13 +135,13 @@
               ]
             },
             {
-              "tid": 61164,
+              "tid": 61084,
               "level": 15,
               "type": 4,
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 4,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -163,13 +163,13 @@
               ]
             },
             {
-              "tid": 61163,
+              "tid": 61083,
               "level": 15,
               "type": 3,
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 4,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -191,7 +191,7 @@
               ]
             },
             {
-              "tid": 61162,
+              "tid": 61082,
               "level": 15,
               "type": 2,
               "mainAffixId": 1,
@@ -203,13 +203,13 @@
                 },
                 {
                   "affixId": 7,
-                  "cnt": 3,
-                  "step": 6
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
@@ -219,7 +219,7 @@
               ]
             },
             {
-              "tid": 61161,
+              "tid": 61081,
               "level": 15,
               "type": 1,
               "mainAffixId": 1,
@@ -231,13 +231,13 @@
                 },
                 {
                   "affixId": 7,
-                  "cnt": 3,
-                  "step": 6
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 3,
+                  "step": 6
                 },
                 {
                   "affixId": 9,
