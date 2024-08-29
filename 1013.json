@@ -85,7 +85,7 @@
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 4,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -96,13 +96,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
@@ -124,13 +124,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
@@ -141,7 +141,7 @@
               "mainAffixId": 4,
               "subAffixList": [
                 {
-                  "affixId": 4,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -152,13 +152,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
@@ -197,7 +197,7 @@
               "mainAffixId": 1,
               "subAffixList": [
                 {
-                  "affixId": 4,
+                  "affixId": 7,
                   "cnt": 1,
                   "step": 2
                 },
@@ -208,13 +208,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
