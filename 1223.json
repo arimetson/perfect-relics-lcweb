@@ -1,0 +1,282 @@
+{
+    "detailInfo": {
+      "avatarDetailList": [
+        {
+          "level": 80,
+          "skillTreeList": [
+            {
+              "pointId": 1223001,
+              "level": 6
+            },
+            {
+              "pointId": 1223002,
+              "level": 10
+            },
+            {
+              "pointId": 1223003,
+              "level": 10
+            },
+            {
+              "pointId": 1223004,
+              "level": 10
+            },
+            {
+              "pointId": 1223007,
+              "level": 1
+            },
+            {
+              "pointId": 1223101,
+              "level": 1
+            },
+            {
+              "pointId": 1223102,
+              "level": 1
+            },
+            {
+              "pointId": 1223103,
+              "level": 1
+            },
+            {
+              "pointId": 1223201,
+              "level": 1
+            },
+            {
+              "pointId": 1223202,
+              "level": 1
+            },
+            {
+              "pointId": 1223203,
+              "level": 1
+            },
+            {
+              "pointId": 1223204,
+              "level": 1
+            },
+            {
+              "pointId": 1223205,
+              "level": 1
+            },
+            {
+              "pointId": 1223206,
+              "level": 1
+            },
+            {
+              "pointId": 1223207,
+              "level": 1
+            },
+            {
+              "pointId": 1223208,
+              "level": 1
+            },
+            {
+              "pointId": 1223209,
+              "level": 1
+            },
+            {
+              "pointId": 1223210,
+              "level": 1
+            }
+          ],
+          "relicList": [
+            {
+              "tid": 61201,
+              "level": 15,
+              "type": 1,
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 6,
+                  "step": 12
+                }
+              ]
+            },
+            {
+              "tid": 61202,
+              "level": 15,
+              "type": 2,
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 6,
+                  "step": 12
+                }
+              ]
+            },
+            {
+              "tid": 61203,
+              "level": 15,
+              "type": 3,
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 6,
+                  "step": 12
+                },
+                {
+                  "affixId": 11,
+                  "cnt": 1,
+                  "step": 2
+                }
+              ]
+            },
+            {
+              "tid": 61204,
+              "level": 15,
+              "type": 4,
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 6,
+                  "step": 12
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 11,
+                  "cnt": 1,
+                  "step": 2
+                }
+              ]
+            },
+            {
+              "tid": 63155,
+              "level": 15,
+              "type": 5,
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 16,
+                  "step": 32
+                }
+              ]
+            },
+            {
+              "tid": 63156,
+              "level": 15,
+              "type": 6,
+              "mainAffixId": 1,
+              "subAffixList": [
+                {
+                  "affixId": 11,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 6,
+                  "step": 12
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                }
+              ]
+            }
+          ],
+          "pos": 1,
+          "promotion": 6,
+          "avatarId": 1223,
+          "rank": 6,
+          "_assist": true
+        }
+      ],
+      "recordInfo": {
+        "achievementCount": 448,
+        "equipmentCount": 67,
+        "avatarCount": 37,
+        "bookCount": 98,
+        "relicCount": 1274,
+        "musicCount": 73,
+        "maxRogueChallengeScore": 9,
+        "challengeInfo": {
+          "scheduleMaxLevel": 21,
+          "scheduleGroupId": 2006
+        }
+      },
+      "nickname": "Hotaru",
+      "signature": "@Hotaru_vn",
+      "uid": 1,
+      "headIcon": 202016,
+      "level": 70,
+      "worldLevel": 6,
+      "friendCount": 18,
+      "platform": "PC",
+      "isDisplayAvatar": true
+    },
+    "ttl": 60,
+    "uid": "1"
+  }
