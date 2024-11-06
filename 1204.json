@@ -137,7 +137,7 @@
             {
               "tid": 61154,
               "level": 15,
-              "type": 4,
+              "type": 2,
               "mainAffixId": 4,
               "subAffixList": [
                 {
@@ -146,19 +146,19 @@
                   "step": 2
                 },
                 {
-                  "affixId": 5,
+                  "affixId": 7,
                   "cnt": 1,
                   "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
@@ -208,13 +208,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 6,
-                  "step": 12
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
