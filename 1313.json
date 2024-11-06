@@ -138,7 +138,7 @@
               "tid": 61213,
               "level": 15,
               "type": 3,
-              "mainAffixId": 1,
+              "mainAffixId": 5,
               "subAffixList": [
                 {
                   "affixId": 4,
@@ -166,7 +166,7 @@
               "tid": 61214,
               "level": 15,
               "type": 4,
-              "mainAffixId": 1,
+              "mainAffixId": 4,
               "subAffixList": [
                 {
                   "affixId": 4,
@@ -222,7 +222,7 @@
               "tid": 63176,
               "level": 15,
               "type": 6,
-              "mainAffixId": 1,
+              "mainAffixId": 2,
               "subAffixList": [
                 {
                   "affixId": 4,
