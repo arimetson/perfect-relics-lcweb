@@ -6,171 +6,92 @@
           "level": 80,
           "skillTreeList": [
             {
-              "pointId": 1224001,
+              "pointId": 1220001,
               "level": 6
             },
             {
-              "pointId": 1224002,
+              "pointId": 1220002,
               "level": 10
             },
             {
-              "pointId": 1224003,
+              "pointId": 1220003,
               "level": 10
             },
             {
-              "pointId": 1224004,
+              "pointId": 1220004,
               "level": 10
             },
             {
-              "pointId": 1224007,
+              "pointId": 1220007,
               "level": 1
             },
             {
-              "pointId": 1224101,
+              "pointId": 1220101,
               "level": 1
             },
             {
-              "pointId": 1224102,
+              "pointId": 1220102,
               "level": 1
             },
             {
-              "pointId": 1224103,
+              "pointId": 1220103,
               "level": 1
             },
             {
-              "pointId": 1224201,
+              "pointId": 1220201,
               "level": 1
             },
             {
-              "pointId": 1224202,
+              "pointId": 1220202,
               "level": 1
             },
             {
-              "pointId": 1224203,
+              "pointId": 1220203,
               "level": 1
             },
             {
-              "pointId": 1224204,
+              "pointId": 1220204,
               "level": 1
             },
             {
-              "pointId": 1224205,
+              "pointId": 1220205,
               "level": 1
             },
             {
-              "pointId": 1224206,
+              "pointId": 1220206,
               "level": 1
             },
             {
-              "pointId": 1224207,
+              "pointId": 1220207,
               "level": 1
             },
             {
-              "pointId": 1224208,
+              "pointId": 1220208,
               "level": 1
             },
             {
-              "pointId": 1224209,
+              "pointId": 1220209,
               "level": 1
             },
             {
-              "pointId": 1224210,
+              "pointId": 1220210,
               "level": 1
             }
           ],
           "relicList": [
             {
-              "tid": 61021,
+              "tid": 63156,
               "level": 15,
-              "type": 1,
-              "mainAffixId": 1,
+              "type": 6,
+              "mainAffixId": 4,
               "subAffixList": [
+                {
+                  "affixId": 4,
+                  "cnt": 1,
+                  "step": 2
+                },
                 {
                   "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
-                },
-                {
-                  "affixId": 8,
-                  "cnt": 3,
-                  "step": 6
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 3,
-                  "step": 6
-                },
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                }
-              ]
-            },
-            {
-              "tid": 61022,
-              "level": 15,
-              "type": 2,
-              "mainAffixId": 1,
-              "subAffixList": [
-                {
-                  "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
-                },
-                {
-                  "affixId": 8,
-                  "cnt": 3,
-                  "step": 6
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 3,
-                  "step": 6
-                },
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                }
-              ]
-            },
-            {
-              "tid": 61023,
-              "level": 15,
-              "type": 3,
-              "mainAffixId": 1,
-              "subAffixList": [
-                {
-                  "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
-                },
-                {
-                  "affixId": 11,
-                  "cnt": 1,
-                  "step": 2
-                },
-                {
-                  "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
-                },
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
-                }
-              ]
-            },
-            {
-              "tid": 61024,
-              "level": 15,
-              "type": 4,
-              "mainAffixId": 1,
-              "subAffixList": [
-                {
-                  "affixId": 12,
                   "cnt": 2,
                   "step": 4
                 },
@@ -183,11 +104,6 @@
                   "affixId": 9,
                   "cnt": 5,
                   "step": 10
-                },
-                {
-                  "affixId": 5,
-                  "cnt": 1,
-                  "step": 2
                 }
               ]
             },
@@ -195,10 +111,15 @@
               "tid": 63155,
               "level": 15,
               "type": 5,
-              "mainAffixId": 1,
+              "mainAffixId": 8,
               "subAffixList": [
                 {
-                  "affixId": 12,
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
                   "cnt": 2,
                   "step": 4
                 },
@@ -211,46 +132,125 @@
                   "affixId": 9,
                   "cnt": 5,
                   "step": 10
+                }
+              ]
+            },
+            {
+              "tid": 61204,
+              "level": 15,
+              "type": 4,
+              "mainAffixId": 2,
+              "subAffixList": [
+                {
+                  "affixId": 12,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 7,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 4,
+                  "step": 8
+                }
+              ]
+            },
+            {
+              "tid": 61203,
+              "level": 15,
+              "type": 3,
+              "mainAffixId": 5,
+              "subAffixList": [
+                {
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 5,
                   "cnt": 1,
                   "step": 2
+                },
+                {
+                  "affixId": 12,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 6,
+                  "step": 12
                 }
               ]
             },
             {
-              "tid": 63156,
+              "tid": 61202,
               "level": 15,
-              "type": 6,
+              "type": 2,
               "mainAffixId": 1,
               "subAffixList": [
                 {
-                  "affixId": 12,
-                  "cnt": 2,
-                  "step": 4
+                  "affixId": 7,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
                   "cnt": 5,
                   "step": 10
-                },
+                }
+              ]
+            },
+            {
+              "tid": 61201,
+              "level": 15,
+              "type": 1,
+              "mainAffixId": 1,
+              "subAffixList": [
                 {
                   "affixId": 7,
                   "cnt": 1,
                   "step": 2
+                },
+                {
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
+                },
+                {
+                  "affixId": 8,
+                  "cnt": 2,
+                  "step": 4
+                },
+                {
+                  "affixId": 9,
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             }
           ],
           "pos": 1,
           "promotion": 6,
-          "avatarId": 1224,
+          "avatarId": 1220,
           "rank": 6,
           "_assist": true
         }
