@@ -96,13 +96,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 3,
+                  "step": 6
                 },
                 {
                   "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
+                  "cnt": 4,
+                  "step": 8
                 }
               ]
             },
@@ -124,13 +124,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 1,
-                  "step": 2
+                  "cnt": 3,
+                  "step": 6
                 },
                 {
                   "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
+                  "cnt": 4,
+                  "step": 8
                 }
               ]
             },
@@ -138,7 +138,7 @@
               "tid": 61204,
               "level": 15,
               "type": 4,
-              "mainAffixId": 2,
+              "mainAffixId": 4,
               "subAffixList": [
                 {
                   "affixId": 12,
@@ -146,14 +146,14 @@
                   "step": 2
                 },
                 {
-                  "affixId": 7,
-                  "cnt": 2,
-                  "step": 4
+                  "affixId": 5,
+                  "cnt": 1,
+                  "step": 2
                 },
                 {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 3,
+                  "step": 6
                 },
                 {
                   "affixId": 9,
@@ -208,13 +208,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 3,
+                  "step": 6
                 },
                 {
                   "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
+                  "cnt": 4,
+                  "step": 8
                 }
               ]
             },
@@ -236,13 +236,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 2,
-                  "step": 4
+                  "cnt": 3,
+                  "step": 6
                 },
                 {
                   "affixId": 9,
-                  "cnt": 5,
-                  "step": 10
+                  "cnt": 4,
+                  "step": 8
                 }
               ]
             }
