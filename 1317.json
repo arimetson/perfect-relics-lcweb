@@ -1,5 +1,4 @@
 {
-  "status": {
     "detailInfo": {
       "avatarDetailList": [
         {
@@ -101,7 +100,7 @@
                   "step": 2
                 },
                 {
-                  "affixId": 11,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 }
@@ -124,7 +123,7 @@
                   "step": 2
                 },
                 {
-                  "affixId": 11,
+                  "affixId": 2,
                   "cnt": 1,
                   "step": 2
                 },
@@ -280,5 +279,4 @@
     },
     "ttl": 60,
     "uid": "1"
-  }
 }
