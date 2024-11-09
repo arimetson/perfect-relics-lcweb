@@ -96,13 +96,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 3,
-                  "step": 6
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 4,
-                  "step": 8
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
@@ -124,13 +124,13 @@
                 },
                 {
                   "affixId": 8,
-                  "cnt": 3,
-                  "step": 6
+                  "cnt": 2,
+                  "step": 4
                 },
                 {
                   "affixId": 9,
-                  "cnt": 4,
-                  "step": 8
+                  "cnt": 5,
+                  "step": 10
                 }
               ]
             },
